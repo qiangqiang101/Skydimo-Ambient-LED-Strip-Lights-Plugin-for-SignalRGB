@@ -13,7 +13,7 @@ export function LedNames() { return vKeyNames; }
 export function LedPositions() { return vKeyPositions; }
 export function Render() { sendColors(grabColors()); }
 export function Validate(endpoint) { return endpoint.interface === 0 && endpoint.usage === 0x0001 && endpoint.usage_page === 0xFF00; }
-export function ImageUrl() { return "https://dev-dl.skydimo.com/assets/device/SK09.jpg"; }
+export function ImageUrl() { return "https://dev-dl.skydimo.com/assets/device/SK0902.png"; }
 /* global
 shutdownColor:readonly
 LightingMode:readonly

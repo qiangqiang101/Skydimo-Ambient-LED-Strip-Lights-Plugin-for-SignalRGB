@@ -38,7 +38,7 @@
     <td>144</td>
   </tr>
   <tr>
-    <td rowspan="2" align="center" valign="middle">
+    <td>
       <img src="https://dev-dl.skydimo.com/assets/device/SK09.jpg" width="100">
     </td>
     <td>SK0901</td>
@@ -46,6 +46,7 @@
     <td>14</td>
   </tr>
     <tr>
+    <td><img src="https://dev-dl.skydimo.com/assets/device/SK0902.png" width="100"></td>
     <td>SK0902</td>
     <td>Single</td>
     <td>49</td>
