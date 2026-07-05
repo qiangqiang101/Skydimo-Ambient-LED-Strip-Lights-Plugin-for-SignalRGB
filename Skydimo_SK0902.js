@@ -8,7 +8,7 @@ export function Documentation() { return "troubleshooting/skydimo"; }
 export function Size() { return [8, 8]; }
 export function DefaultPosition() { return [40, 120]; }
 export function DefaultScale() { return 1.0; }
-export function DeviceType() { return "other"; }
+export function DeviceType() { return "headset"; }
 export function LedNames() { return vKeyNames; }
 export function LedPositions() { return vKeyPositions; }
 export function Render() { sendColors(grabColors()); }
